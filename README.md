@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ![](https://github-view-count.herokuapp.com/)
 <!--
-**baraklevy20/baraklevy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SparkyDev9339/SparkyDev9339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
